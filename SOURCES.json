@@ -1,0 +1,111 @@
+{
+  "collectedAt": "2026-10-02",
+  "githubRepository": "https://github.com/maritaca-ai/oab-bench",
+  "githubTreeSHA": "238e9991c1fd204788001482cddaea472c66b86f",
+  "githubFiles": {
+    "questions.jsonl": {
+      "sha256": "c43557c9cd19a11db40a10c1ffe3dde577aedad7b5b7eee80ec6a8d4e35816d1"
+    },
+    "guidelines.jsonl": {
+      "sha256": "5fe0748d064028213c2a3cf1c75af0884c975b926d58626d38843feee7f62f2a"
+    }
+  },
+  "officialExams": [
+    {
+      "id": "46_direito_trabalho",
+      "edition": 46,
+      "area": "Trabalho",
+      "date": "21/06/2026",
+      "sourceUrl": "https://oab.fgv.br/arq/649/390233_OAB%2046%20-%20PADR%c3%83O%20DE%20RESPOSTA%20-%20B007%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/649/523125_OAB46%20-%20B007%20(DIREITO%20DO%20TRABALHO).pdf"
+    },
+    {
+      "id": "45_direito_trabalho",
+      "edition": 45,
+      "area": "Trabalho",
+      "date": "22/02/2026",
+      "sourceUrl": "https://oab.fgv.br/arq/648/141747_OAB%2045%20-%20PADR%c3%83O%20DE%20RESPOSTA%20-%20B007%20-%20DIREITO%20DO%20TRABALHO%20-%20NOVO%20FORMATO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/648/500736_OAB45%20-%20B007%20(DIREITO%20DO%20TRABALHO).pdf"
+    },
+    {
+      "id": "38_direito_trabalho",
+      "edition": 38,
+      "area": "Trabalho",
+      "date": "10/09/2023",
+      "sourceUrl": "https://oab.fgv.br/arq/641/534695_OAB%20XXXVIII%20-%20CNS26%20-%20GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/641/1086550_CNS26%20-%20DIREITO%20DO%20TRABALHO.pdf"
+    },
+    {
+      "id": "37_direito_trabalho",
+      "edition": 37,
+      "area": "Trabalho",
+      "date": "30/04/2023",
+      "sourceUrl": "https://oab.fgv.br/arq/640/186091_186091_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/640/1652864_XXXVII%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "36_direito_trabalho",
+      "edition": 36,
+      "area": "Trabalho",
+      "date": "11/12/2022",
+      "sourceUrl": "https://oab.fgv.br/arq/639/261682_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO-05.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/639/1653088_XXXVI%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "35_direito_trabalho",
+      "edition": 35,
+      "area": "Trabalho",
+      "date": "28/08/2022",
+      "sourceUrl": "https://oab.fgv.br/arq/638/185868_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/638/1656835_XXXV%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "34_direito_trabalho",
+      "edition": 34,
+      "area": "Trabalho",
+      "date": "24/04/2022",
+      "sourceUrl": "https://oab.fgv.br/arq/637/141034_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/637/1650519_XXXIV%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "33_direito_trabalho",
+      "edition": 33,
+      "area": "Trabalho",
+      "date": "12/12/2021",
+      "sourceUrl": "https://oab.fgv.br/arq/636/639483_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO%202021%20-%202022-01-07%20revisado%20e%20atualizado%20por%20Marcelo%20Segal.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/636/1423496_XXXIII%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "32_direito_trabalho",
+      "edition": 32,
+      "area": "Trabalho",
+      "date": "08/08/2021",
+      "sourceUrl": "https://oab.fgv.br/arq/635/636486_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO%20-%20REVISADA.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/635/1866166_XXXII%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "31_direito_trabalho",
+      "edition": 31,
+      "area": "Trabalho",
+      "date": "06/12/2020",
+      "sourceUrl": "https://oab.fgv.br/arq/634/229470_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/634/1958208_XXXI%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "30_direito_trabalho",
+      "edition": 30,
+      "area": "Trabalho",
+      "date": "01/12/2019",
+      "sourceUrl": "https://oab.fgv.br/arq/633/336775_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/633/1864638_XXX%20Exame%20Trabalho%20-%20SEGUNDA%20FASE.pdf"
+    },
+    {
+      "id": "29_direito_trabalho",
+      "edition": 29,
+      "area": "Trabalho",
+      "date": "18/08/2019",
+      "sourceUrl": "https://oab.fgv.br/arq/632/439996_GABARITO%20JUSTIFICADO%20-%20DIREITO%20DO%20TRABALHO.pdf",
+      "bookUrl": "https://oab.fgv.br/arq/632/1756161_XXIXExame%20Trabalho%20-%20SEGUNDA%20FASE_IFM.pdf"
+    }
+  ]
+}
